@@ -14,6 +14,7 @@ const Coin = ({
   let history = useHistory();
   return (
     <div className="coinContainer">
+    
       <div className="coinRow">
         <div className="coinData">
           <div className="coin">
